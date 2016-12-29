@@ -10,7 +10,7 @@ return array(
     'module' => array(
         'Log' => array(
             'name' => 'Log',
-            'version' => '1.0.3',
+            'version' => '1.0.4',
             'install' => array()
         )
     ),
